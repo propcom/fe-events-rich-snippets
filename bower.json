@@ -1,0 +1,40 @@
+{
+
+    "name": "events-rich-snippets",
+    "authors": [
+   
+        "Brett Chisholm"
+
+    ],
+
+    "description": "Events Rich Snippets",
+    "main": "events.php",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/btc90/fe-events-rich-snippets.git"
+
+    },
+
+    "keywords": [
+
+        "Events",
+        "microdata",
+        "rich-snippets",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom"
+
+    ], 
+
+    "license": "Public",
+    "homepage": "https://github.com/btc90/fe-events-rich-snippets.git",
+
+    "install" : {
+
+        "events.php" : "fuel/app/views/",
+
+    }
+
+}
