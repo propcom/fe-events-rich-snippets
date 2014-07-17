@@ -1,0 +1,1 @@
+CP events formated with GA rich snippets.
